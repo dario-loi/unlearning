@@ -1474,3 +1474,4647 @@ Layer 3:
 x: torch.Size([432, 3])
 edge_attr: torch.Size([118100, 1])
 u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([216, 32])
+edge_attr: torch.Size([59050, 32])
+u: torch.Size([1, 32])
+Layer 1:
+x: torch.Size([216, 32])
+edge_attr: torch.Size([59050, 32])
+u: torch.Size([1, 32])
+Layer 2:
+x: torch.Size([216, 32])
+edge_attr: torch.Size([59050, 32])
+u: torch.Size([1, 32])
+Layer 3:
+x: torch.Size([216, 3])
+edge_attr: torch.Size([59050, 1])
+u: torch.Size([1, 8])
+Layer 0:
+x: torch.Size([216, 32])
+edge_attr: torch.Size([59050, 32])
+u: torch.Size([1, 32])
+Layer 1:
+x: torch.Size([216, 32])
+edge_attr: torch.Size([59050, 32])
+u: torch.Size([1, 32])
+Layer 2:
+x: torch.Size([216, 32])
+edge_attr: torch.Size([59050, 32])
+u: torch.Size([1, 32])
+Layer 3:
+x: torch.Size([216, 3])
+edge_attr: torch.Size([59050, 1])
+u: torch.Size([1, 8])
+Layer 0:
+x: torch.Size([216, 32])
+edge_attr: torch.Size([59050, 32])
+u: torch.Size([1, 32])
+Layer 1:
+x: torch.Size([216, 32])
+edge_attr: torch.Size([59050, 32])
+u: torch.Size([1, 32])
+Layer 2:
+x: torch.Size([216, 32])
+edge_attr: torch.Size([59050, 32])
+u: torch.Size([1, 32])
+Layer 3:
+x: torch.Size([216, 3])
+edge_attr: torch.Size([59050, 1])
+u: torch.Size([1, 8])
+Layer 0:
+x: torch.Size([216, 32])
+edge_attr: torch.Size([59050, 32])
+u: torch.Size([1, 32])
+Layer 1:
+x: torch.Size([216, 32])
+edge_attr: torch.Size([59050, 32])
+u: torch.Size([1, 32])
+Layer 2:
+x: torch.Size([216, 32])
+edge_attr: torch.Size([59050, 32])
+u: torch.Size([1, 32])
+Layer 3:
+x: torch.Size([216, 3])
+edge_attr: torch.Size([59050, 1])
+u: torch.Size([1, 8])
+Layer 0:
+x: torch.Size([216, 32])
+edge_attr: torch.Size([59050, 32])
+u: torch.Size([1, 32])
+Layer 1:
+x: torch.Size([216, 32])
+edge_attr: torch.Size([59050, 32])
+u: torch.Size([1, 32])
+Layer 2:
+x: torch.Size([216, 32])
+edge_attr: torch.Size([59050, 32])
+u: torch.Size([1, 32])
+Layer 3:
+x: torch.Size([216, 3])
+edge_attr: torch.Size([59050, 1])
+u: torch.Size([1, 8])
+Layer 0:
+x: torch.Size([216, 32])
+edge_attr: torch.Size([59050, 32])
+u: torch.Size([1, 32])
+Layer 1:
+x: torch.Size([216, 32])
+edge_attr: torch.Size([59050, 32])
+u: torch.Size([1, 32])
+Layer 2:
+x: torch.Size([216, 32])
+edge_attr: torch.Size([59050, 32])
+u: torch.Size([1, 32])
+Layer 3:
+x: torch.Size([216, 3])
+edge_attr: torch.Size([59050, 1])
+u: torch.Size([1, 8])
+Layer 0:
+x: torch.Size([216, 32])
+edge_attr: torch.Size([59050, 32])
+u: torch.Size([1, 32])
+Layer 1:
+x: torch.Size([216, 32])
+edge_attr: torch.Size([59050, 32])
+u: torch.Size([1, 32])
+Layer 2:
+x: torch.Size([216, 32])
+edge_attr: torch.Size([59050, 32])
+u: torch.Size([1, 32])
+Layer 3:
+x: torch.Size([216, 3])
+edge_attr: torch.Size([59050, 1])
+u: torch.Size([1, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 1:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 2:
+x: torch.Size([432, 32])
+edge_attr: torch.Size([118100, 32])
+u: torch.Size([2, 32])
+Layer 3:
+x: torch.Size([432, 3])
+edge_attr: torch.Size([118100, 1])
+u: torch.Size([2, 8])
+Layer 0:
+x: torch.Size([216, 32])
+edge_attr: torch.Size([59050, 32])
+u: torch.Size([1, 32])
+Layer 1:
+x: torch.Size([216, 32])
+edge_attr: torch.Size([59050, 32])
+u: torch.Size([1, 32])
+Layer 2:
+x: torch.Size([216, 32])
+edge_attr: torch.Size([59050, 32])
+u: torch.Size([1, 32])
+Layer 3:
+x: torch.Size([216, 3])
+edge_attr: torch.Size([59050, 1])
+u: torch.Size([1, 8])
